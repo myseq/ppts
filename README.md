@@ -1,3 +1,5 @@
-# ppts
+# Stories
 
-Here's the folder that stores all the presentation materials in the past.
+Here's the folder that stores all the long and short stories that I have.
+
+
